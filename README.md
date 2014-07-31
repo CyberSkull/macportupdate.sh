@@ -10,5 +10,5 @@ This script runs several commands for a plain vanilla setup of MacPorts.
 * `port upgrade outdated` - Updates the outdated programs.
 * `port uninstall inactive` - Uninstalls the inactive (old) versions.
 
-Installation: Drop it wherever you wish in your $PATH. I keep my in `~/bin/macportupdate.sh`.
+Installation: Drop it wherever you wish in your `$PATH`. I keep my in `~/bin/macportupdate.sh`.
 To use, just run `sudo macportupdate.sh`.
